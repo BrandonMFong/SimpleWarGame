@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SimpleWarGame</name>
+    </assembly>
+    <members>
+        <member name="T:SimpleWarGame.GameObject">
+            <summary>
+            Abstract Base Class for all other classes.
+            Gives every inherited class the Name property.
+            </summary>
+            Just going to set every member as public and will define privates later
+        </member>
+        <member name="T:SimpleWarGame.EnemyTank">
+            <summary>
+            The EnemyTank class.  High health and Armor. Uses Slug Ammo.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.EnemyTank.#ctor">
+            <summary>
+            EnemyTank Constructor. Takes no arguments.
+            Initalizies an EnemyTank to default values.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.EnemyTruck">
+            <summary>
+            The EnemyTruck class.  Low Health and Armor. Uses Missle Ammo.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.EnemyTruck.#ctor">
+            <summary>
+            EnemyTruck Constructor. Takes no arguments.
+            Initalizies an EnemyTruck to default values.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.Entity">
+            <summary>
+            Abstract Base class for all character agents (AKA Entities).
+            Every Entity has Health, Armor, and MaxHealth properties.
+            Every Entity has Attack and Defend methods.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.MissleAmmo">
+            <summary>
+            MissleAmmo is a type of Weapon. 
+            Has high bonus to attack.
+            Average damage spread with high damage.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.MissleAmmo.#ctor">
+            <summary>
+            MissleAmmo Constructor. Takes no arguments.
+            Sets default values.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.ExplodeAmmo">
+            <summary>
+            ExplodeAmmo is a type of Weapon. 
+            Has no bonus to attack.
+            Inprecise (wide range) but high damage.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.ExplodeAmmo.#ctor">
+            <summary>
+            ExplodeAmmo Constructor. Takes no arguments.
+            Sets default values.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.PiercingAmmo">
+            <summary>
+            PirecingAmmo is a type of Weapon. 
+            Has moderate bonus to attack.
+            Average damage spread with low damage.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.PiercingAmmo.#ctor">
+            <summary>
+            PiercingAmmo Constructor. Takes no arguments.
+            Sets default values.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.Player">
+            <summary>
+            The Player class.  High Health and Armor. Uses various kinds of Ammo selected by the player.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.Player.#ctor">
+            <summary>
+            Player Constructor. Takes no arguments.
+            Initalizies an Player to default values.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.Player.SelectWeapon(SimpleWarGame.weaponType)">
+            <summary>
+            Allows the player to select which weapon they want to use.
+            </summary>
+            <param name="type">The weapon they would like to use. Check the weaponType enum for possible options.</param>
+        </member>
+        <member name="M:SimpleWarGame.Player.Heal">
+            <summary>
+            Heals the player to maximum health.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.Program">
+            <summary>
+            Main class of the program. Contains the Entry Point.
+            Also contains the functionality to print the Game Description
+             and the weaponType enumeration, which is used to enumerate avalible weapons.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.Program.Main(System.String[])">
+            <summary>
+            Entry point and main game loop for the game.
+            Processes a basic game consisting of two tanks. A player and an Enemy target.
+            Prints appropriate game messages.
+            </summary>
+            <param name="args">Command line arguments. [Unused]</param>
+        </member>
+        <member name="M:SimpleWarGame.Program.GameDescMessage">
+            <summary>
+            Prints the basic Game Description to the console.
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.weaponType">
+            <summary>
+            Enumeration of the weapons that the player can choose from.
+            </summary>
+        </member>
+        <member name="F:SimpleWarGame.weaponType.explosive">
+            <summary>
+            Coresponds to ExplodeAmmo
+            </summary>
+        </member>
+        <member name="F:SimpleWarGame.weaponType.piercing">
+            <summary>
+            Coresponds to PirecingAmmo
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.Weapon">
+            <summary>
+            Abstract base class for all weapons in the game.
+            </summary>
+        </member>
+        <member name="P:SimpleWarGame.Weapon.Damage">
+            <summary>
+            Virtual property for class Weapon
+            </summary>
+        </member>
+        <member name="T:SimpleWarGame.SlugAmmo">
+            <summary>
+            SlugAmmo is a type of Weapon. 
+            Has low bonus to attack.
+            Percise but moderate damage.
+            </summary>
+        </member>
+        <member name="M:SimpleWarGame.SlugAmmo.#ctor">
+            <summary>
+            SlugAmmo Constructor. Takes no arguments.
+            Sets default values.
+            </summary>
+        </member>
+    </members>
+</doc>

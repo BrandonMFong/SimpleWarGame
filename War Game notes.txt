@@ -1,0 +1,40 @@
+entry point
+	initialization
+	output game description
+	game loop
+		generate game round
+			generate Enemy
+			output round description
+			output prompt for Player Weapon
+			generate Player Weapon
+		process Player attack
+			generate attack value
+			if attack hits
+				generate damage value
+				apply damage to Enemy
+				output attack message
+			else
+				output missed message
+		end process Player attack
+		process Enemy attack
+			generate attack value
+			if attack hits
+				generate damage value
+				apply damage to Player
+				output attack message
+			else
+				output missed message
+		end process Enemy attack
+		if Player and Enemy dies
+			output both died message
+		else if Player dies
+			output Player died message
+		else if Enemy dies
+			output Enemy died message
+		ouput prompt to play again
+		if user chooses to exit
+			exit program
+		heal Player
+	end game loop
+	finalization
+exit

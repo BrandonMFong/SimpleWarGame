@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9fd2058a-742e-449e-befc-e5c9bf455333" Title="SimpleWarGame Namespace" Url="html/fc1c1a14-858b-befc-846d-67549371b99d.htm">
+    <HelpTOCNode Id="e6a5c5ae-cd39-46e5-875d-70927cc7977b" Title="EnemyTank Class" Url="html/5334d3a6-4626-4c7f-f956-aafe3106cba8.htm">
+      <HelpTOCNode Title="EnemyTank Members" Url="html/ff194882-c7ce-86c7-a9b3-2bd28a2047ab.htm" />
+      <HelpTOCNode Title="EnemyTank Constructor " Url="html/3f08dea6-2f6c-698b-82e7-d6b279d6e5f8.htm" />
+      <HelpTOCNode Title="EnemyTank Fields" Url="html/42d5f8a2-46af-8a05-920b-c20cffa78aff.htm" />
+      <HelpTOCNode Title="EnemyTank Methods" Url="html/752f7582-5621-39c9-5831-034f03a4fcf8.htm" />
+      <HelpTOCNode Title="EnemyTank Properties" Url="html/11e5b4f9-b2a9-3292-2478-91bfe87c79a0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e873be2e-38b1-43fe-bafd-dfd9ae143760" Title="EnemyTruck Class" Url="html/a4e5ac33-fa3a-2612-fb38-e4d0a22477e8.htm">
+      <HelpTOCNode Title="EnemyTruck Members" Url="html/44fb412f-e1db-1c1e-4d82-98eec676cdf8.htm" />
+      <HelpTOCNode Title="EnemyTruck Constructor " Url="html/77ca0402-e415-207d-f3b7-4e91f197400d.htm" />
+      <HelpTOCNode Title="EnemyTruck Fields" Url="html/2ac0574e-2435-77fd-7d67-e2a6f350f0e8.htm" />
+      <HelpTOCNode Title="EnemyTruck Methods" Url="html/52d094c8-afd1-3857-d95f-0b599b160776.htm" />
+      <HelpTOCNode Title="EnemyTruck Properties" Url="html/72c363b5-1743-0d60-1640-26269eb90451.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="36e1d4cf-9fce-4ccc-b968-fb82c2d425f2" Title="Entity Class" Url="html/51716122-dfda-7d56-9f4e-2ddce236905a.htm">
+      <HelpTOCNode Title="Entity Members" Url="html/c9abbaad-5cd3-9491-a130-10ff03bb6e53.htm" />
+      <HelpTOCNode Title="Entity Constructor " Url="html/910b9eb5-de62-e9b1-5270-7c4c006c8647.htm" />
+      <HelpTOCNode Id="e2655d33-c95f-41ca-bb96-8d211f85a061" Title="Entity Fields" Url="html/96b7c4a6-7382-f9df-cb5e-5ac259a72872.htm">
+        <HelpTOCNode Title="weapon Field" Url="html/039b07c8-9260-c9bc-4880-56b4ace3f2ba.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec91653e-446a-434a-9311-14bc679ab202" Title="Entity Methods" Url="html/9d12d4b2-7d64-e992-10f5-e9f40c0a7580.htm">
+        <HelpTOCNode Title="Attack Method " Url="html/347bcde1-36c7-3540-0c5d-c74788287505.htm" />
+        <HelpTOCNode Title="Defend Method " Url="html/a25174a2-1749-b038-2c7d-dcdb388e36e0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8dd4f205-f74f-4266-aa1e-b56be74eceb4" Title="Entity Properties" Url="html/c6a87bcf-7ecf-cb43-fc59-4984796ed3d0.htm">
+        <HelpTOCNode Title="Armor Property " Url="html/1e5cc1c2-e0a7-ddbf-7588-e51303afd75e.htm" />
+        <HelpTOCNode Title="Health Property " Url="html/a7fdac45-2393-28da-9669-117bca23fea9.htm" />
+        <HelpTOCNode Title="MaxHealth Property " Url="html/77fb66c9-b03c-804e-3ae5-d871df268f56.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="201075ae-2a4e-40a7-9ad6-f5be8e6db850" Title="ExplodeAmmo Class" Url="html/1b54d84b-2c91-9bf5-2309-072347503faf.htm">
+      <HelpTOCNode Title="ExplodeAmmo Members" Url="html/2602ed1c-001a-77bc-7acf-0e5afb6cf142.htm" />
+      <HelpTOCNode Title="ExplodeAmmo Constructor " Url="html/233a0e27-230c-f574-8c90-8f75428b5d8e.htm" />
+      <HelpTOCNode Title="ExplodeAmmo Fields" Url="html/c02e8830-11c1-9a42-f10f-b4f31c18638b.htm" />
+      <HelpTOCNode Title="ExplodeAmmo Methods" Url="html/c5719924-e3bd-80f3-89d4-1f368dc42596.htm" />
+      <HelpTOCNode Title="ExplodeAmmo Properties" Url="html/69089784-8448-7159-67de-a51b06cea0bf.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="502c0e8f-c873-4e71-86ff-0708b1f9a25b" Title="GameObject Class" Url="html/8d525501-31e3-6b92-e213-9d2fdcc8c5e4.htm">
+      <HelpTOCNode Title="GameObject Members" Url="html/7c97ffe2-bdc8-07da-838f-a12aa2fb3bfa.htm" />
+      <HelpTOCNode Title="GameObject Constructor " Url="html/6916b8ac-72df-6b10-5586-7c263307b61e.htm" />
+      <HelpTOCNode Title="GameObject Methods" Url="html/616711ec-01fb-0d31-66da-4d321ad4abf9.htm" />
+      <HelpTOCNode Id="d9f2957a-092d-489a-83af-50992cb527b5" Title="GameObject Properties" Url="html/b8c7da07-e176-43fe-9e61-50a485344f89.htm">
+        <HelpTOCNode Title="Name Property " Url="html/78ff74e2-ffe4-7ce9-4141-52642a0dd96d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d0dd5999-3d4b-4f68-b053-9c437623de19" Title="MissleAmmo Class" Url="html/7ac17d77-a58d-d6c6-2beb-32e7eac70480.htm">
+      <HelpTOCNode Title="MissleAmmo Members" Url="html/97e27f1b-991e-88ba-a80d-364b720b15fb.htm" />
+      <HelpTOCNode Title="MissleAmmo Constructor " Url="html/2653085e-e549-084d-d76e-103320a14d3f.htm" />
+      <HelpTOCNode Title="MissleAmmo Fields" Url="html/5e3f4730-9983-e9c4-16b6-e411f55a4961.htm" />
+      <HelpTOCNode Title="MissleAmmo Methods" Url="html/c3a233b7-e661-cf40-2930-585b92da891e.htm" />
+      <HelpTOCNode Title="MissleAmmo Properties" Url="html/29c81ddc-d019-930e-8fb2-1c623669a325.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f8024fa9-070f-47de-891e-fa79180c37a8" Title="PiercingAmmo Class" Url="html/f2e129a2-6f7e-c064-f405-e84f843f5ab5.htm">
+      <HelpTOCNode Title="PiercingAmmo Members" Url="html/2235cb60-2aca-0327-2637-23b13a543abc.htm" />
+      <HelpTOCNode Title="PiercingAmmo Constructor " Url="html/d711ffaa-1fa2-3a87-e502-ed2fca4b5b25.htm" />
+      <HelpTOCNode Title="PiercingAmmo Fields" Url="html/3f740e86-3918-85c4-9288-0e7e8f49bdc5.htm" />
+      <HelpTOCNode Title="PiercingAmmo Methods" Url="html/4e237c10-bf15-a1bb-8fe2-54bcd17f0cab.htm" />
+      <HelpTOCNode Title="PiercingAmmo Properties" Url="html/318ab94e-a3cf-a5ac-195b-1ba218cffb87.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="377d4a63-57f2-46ba-8301-d4eec118eef2" Title="Player Class" Url="html/2c3f2a7e-98a4-c8d7-bf74-1b1ccf24a7f1.htm">
+      <HelpTOCNode Title="Player Members" Url="html/4604f814-afb4-88b5-0e05-600156afcf49.htm" />
+      <HelpTOCNode Title="Player Constructor " Url="html/3883ee8a-992e-b311-c5f0-f0849e7e21d6.htm" />
+      <HelpTOCNode Title="Player Fields" Url="html/f5840008-5766-159f-b9f9-989c9811b607.htm" />
+      <HelpTOCNode Id="ee8d58be-468d-47f7-9995-9fd3ca99f756" Title="Player Methods" Url="html/6dc12113-4264-ca7d-dcbb-3d8b534af734.htm">
+        <HelpTOCNode Title="Heal Method " Url="html/4100982e-cfec-4e74-ec8f-078240f7fbf8.htm" />
+        <HelpTOCNode Title="SelectWeapon Method " Url="html/2f139c08-27a2-f003-d609-55a979b0dd6a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Player Properties" Url="html/c372bb9c-8998-2105-e0d8-5a062dc97329.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e1adce38-f3c4-4539-bf84-e4d6f9b97c54" Title="Program Class" Url="html/bf0bd738-02eb-c01d-200f-5c907da3c9bb.htm">
+      <HelpTOCNode Title="Program Members" Url="html/53af7dd3-2f72-ec86-2dda-16a2e38a49ff.htm" />
+      <HelpTOCNode Title="Program Constructor " Url="html/cbe2442e-a5e4-ea5f-0a08-6f78f85d4e49.htm" />
+      <HelpTOCNode Title="Program Methods" Url="html/73f08d18-4114-33b0-09d3-86d9276c12ac.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5f949710-c649-4ff6-9366-07c6d5715f64" Title="SlugAmmo Class" Url="html/4a319533-6b35-9da0-4445-4871d2f6513c.htm">
+      <HelpTOCNode Title="SlugAmmo Members" Url="html/f0ae5b4d-4e4b-9746-34b4-4e1459a43602.htm" />
+      <HelpTOCNode Title="SlugAmmo Constructor " Url="html/d7c4ad90-3853-5561-1ecb-8723a1aa0558.htm" />
+      <HelpTOCNode Title="SlugAmmo Fields" Url="html/8dfff2c0-ed2d-ea2a-c380-b1d48b26cd19.htm" />
+      <HelpTOCNode Title="SlugAmmo Methods" Url="html/65eb2c24-aa08-ebea-ea4e-ad34c6856eb5.htm" />
+      <HelpTOCNode Title="SlugAmmo Properties" Url="html/10276706-81d4-8145-eecf-672294818ba5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fa896913-44ab-48cf-9345-1ee6e36d578e" Title="Weapon Class" Url="html/b2afce65-4e6e-b356-0b4a-d67702753b47.htm">
+      <HelpTOCNode Title="Weapon Members" Url="html/033d8c81-7f8f-c070-fabd-820226ce0d0f.htm" />
+      <HelpTOCNode Title="Weapon Constructor " Url="html/c434bf20-a245-bbb0-6b6a-37ec7eb38d99.htm" />
+      <HelpTOCNode Id="49a7c02d-87cf-45cd-b1fb-ccc4c1c92970" Title="Weapon Fields" Url="html/3aa74717-476d-afdd-0f36-3e4395cb29e5.htm">
+        <HelpTOCNode Title="attackModifier Field" Url="html/2ccc3b7d-8877-365f-df73-a0fc24cd73d9.htm" />
+        <HelpTOCNode Title="damage Field" Url="html/99cf3904-ef4a-fabd-7195-290546426135.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Weapon Methods" Url="html/9295717d-a127-e845-f65a-0d9308baa369.htm" />
+      <HelpTOCNode Id="beb32a0c-907a-4bfe-a142-28d40c63f582" Title="Weapon Properties" Url="html/02220060-705b-d046-7481-611ac4fe68c2.htm">
+        <HelpTOCNode Title="AttackMod Property " Url="html/1be109e2-15da-7045-f917-11fa873bf9b1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aff4ea62-ae79-4b1e-831a-67bec2bcb931" Title="Weapon.Damage Structure" Url="html/28bc767b-b8cb-c09a-9742-f957731df5bb.htm">
+      <HelpTOCNode Title="Weapon.Damage Members" Url="html/cb938573-6959-35f8-3bb1-847e482c3fcf.htm" />
+      <HelpTOCNode Id="b237e1b8-67c4-4929-8e26-08e00e0fb97e" Title="Weapon.Damage Fields" Url="html/ae7eae0c-edda-77b9-9d9e-98ae5a94fc04.htm">
+        <HelpTOCNode Title="max Field" Url="html/50e75768-b27b-97ca-7b3f-9598099c8486.htm" />
+        <HelpTOCNode Title="min Field" Url="html/07f377ba-0ee5-aca4-9118-2e9e55dd8c88.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Weapon.Damage Methods" Url="html/782ae7ab-96b4-0785-5287-60f487692c75.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="weaponType Enumeration" Url="html/ba44f3b2-bff1-f5d4-f53a-0b1e1f8980c5.htm" />
+  </HelpTOCNode>
+</HelpTOC>

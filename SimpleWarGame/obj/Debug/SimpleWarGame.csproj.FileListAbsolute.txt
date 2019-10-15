@@ -1,0 +1,7 @@
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.exe.config
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.XML
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.exe
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.pdb
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.csprojAssemblyReference.cache
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.exe
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_1\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.pdb

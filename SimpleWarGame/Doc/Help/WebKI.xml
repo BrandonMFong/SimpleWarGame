@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Armor property" Url="html/1e5cc1c2-e0a7-ddbf-7588-e51303afd75e.htm" />
+  <HelpKINode Title="Attack method" Url="html/347bcde1-36c7-3540-0c5d-c74788287505.htm" />
+  <HelpKINode Title="AttackMod property" Url="html/1be109e2-15da-7045-f917-11fa873bf9b1.htm" />
+  <HelpKINode Title="attackModifier field" Url="html/2ccc3b7d-8877-365f-df73-a0fc24cd73d9.htm" />
+  <HelpKINode Title="damage field" Url="html/99cf3904-ef4a-fabd-7195-290546426135.htm" />
+  <HelpKINode Title="Defend method" Url="html/a25174a2-1749-b038-2c7d-dcdb388e36e0.htm" />
+  <HelpKINode Title="EnemyTank class" Url="html/5334d3a6-4626-4c7f-f956-aafe3106cba8.htm" />
+  <HelpKINode Title="EnemyTank class" Url="html/ff194882-c7ce-86c7-a9b3-2bd28a2047ab.htm" />
+  <HelpKINode Title="EnemyTank class">
+    <HelpKINode Title="about EnemyTank class" Url="html/5334d3a6-4626-4c7f-f956-aafe3106cba8.htm" />
+    <HelpKINode Title="all members" Url="html/ff194882-c7ce-86c7-a9b3-2bd28a2047ab.htm" />
+    <HelpKINode Title="constructor" Url="html/3f08dea6-2f6c-698b-82e7-d6b279d6e5f8.htm" />
+    <HelpKINode Title="fields" Url="html/42d5f8a2-46af-8a05-920b-c20cffa78aff.htm" />
+    <HelpKINode Title="methods" Url="html/752f7582-5621-39c9-5831-034f03a4fcf8.htm" />
+    <HelpKINode Title="properties" Url="html/11e5b4f9-b2a9-3292-2478-91bfe87c79a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnemyTank.EnemyTank constructor" Url="html/3f08dea6-2f6c-698b-82e7-d6b279d6e5f8.htm" />
+  <HelpKINode Title="EnemyTruck class" Url="html/44fb412f-e1db-1c1e-4d82-98eec676cdf8.htm" />
+  <HelpKINode Title="EnemyTruck class" Url="html/a4e5ac33-fa3a-2612-fb38-e4d0a22477e8.htm" />
+  <HelpKINode Title="EnemyTruck class">
+    <HelpKINode Title="about EnemyTruck class" Url="html/a4e5ac33-fa3a-2612-fb38-e4d0a22477e8.htm" />
+    <HelpKINode Title="all members" Url="html/44fb412f-e1db-1c1e-4d82-98eec676cdf8.htm" />
+    <HelpKINode Title="constructor" Url="html/77ca0402-e415-207d-f3b7-4e91f197400d.htm" />
+    <HelpKINode Title="fields" Url="html/2ac0574e-2435-77fd-7d67-e2a6f350f0e8.htm" />
+    <HelpKINode Title="methods" Url="html/52d094c8-afd1-3857-d95f-0b599b160776.htm" />
+    <HelpKINode Title="properties" Url="html/72c363b5-1743-0d60-1640-26269eb90451.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnemyTruck.EnemyTruck constructor" Url="html/77ca0402-e415-207d-f3b7-4e91f197400d.htm" />
+  <HelpKINode Title="Entity class" Url="html/51716122-dfda-7d56-9f4e-2ddce236905a.htm" />
+  <HelpKINode Title="Entity class" Url="html/c9abbaad-5cd3-9491-a130-10ff03bb6e53.htm" />
+  <HelpKINode Title="Entity class">
+    <HelpKINode Title="about Entity class" Url="html/51716122-dfda-7d56-9f4e-2ddce236905a.htm" />
+    <HelpKINode Title="all members" Url="html/c9abbaad-5cd3-9491-a130-10ff03bb6e53.htm" />
+    <HelpKINode Title="constructor" Url="html/910b9eb5-de62-e9b1-5270-7c4c006c8647.htm" />
+    <HelpKINode Title="fields" Url="html/96b7c4a6-7382-f9df-cb5e-5ac259a72872.htm" />
+    <HelpKINode Title="methods" Url="html/9d12d4b2-7d64-e992-10f5-e9f40c0a7580.htm" />
+    <HelpKINode Title="properties" Url="html/c6a87bcf-7ecf-cb43-fc59-4984796ed3d0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Entity.Armor property" Url="html/1e5cc1c2-e0a7-ddbf-7588-e51303afd75e.htm" />
+  <HelpKINode Title="Entity.Attack method" Url="html/347bcde1-36c7-3540-0c5d-c74788287505.htm" />
+  <HelpKINode Title="Entity.Defend method" Url="html/a25174a2-1749-b038-2c7d-dcdb388e36e0.htm" />
+  <HelpKINode Title="Entity.Entity constructor" Url="html/910b9eb5-de62-e9b1-5270-7c4c006c8647.htm" />
+  <HelpKINode Title="Entity.Health property" Url="html/a7fdac45-2393-28da-9669-117bca23fea9.htm" />
+  <HelpKINode Title="Entity.MaxHealth property" Url="html/77fb66c9-b03c-804e-3ae5-d871df268f56.htm" />
+  <HelpKINode Title="Entity.weapon field" Url="html/039b07c8-9260-c9bc-4880-56b4ace3f2ba.htm" />
+  <HelpKINode Title="ExplodeAmmo class" Url="html/1b54d84b-2c91-9bf5-2309-072347503faf.htm" />
+  <HelpKINode Title="ExplodeAmmo class" Url="html/2602ed1c-001a-77bc-7acf-0e5afb6cf142.htm" />
+  <HelpKINode Title="ExplodeAmmo class">
+    <HelpKINode Title="about ExplodeAmmo class" Url="html/1b54d84b-2c91-9bf5-2309-072347503faf.htm" />
+    <HelpKINode Title="all members" Url="html/2602ed1c-001a-77bc-7acf-0e5afb6cf142.htm" />
+    <HelpKINode Title="constructor" Url="html/233a0e27-230c-f574-8c90-8f75428b5d8e.htm" />
+    <HelpKINode Title="fields" Url="html/c02e8830-11c1-9a42-f10f-b4f31c18638b.htm" />
+    <HelpKINode Title="methods" Url="html/c5719924-e3bd-80f3-89d4-1f368dc42596.htm" />
+    <HelpKINode Title="properties" Url="html/69089784-8448-7159-67de-a51b06cea0bf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExplodeAmmo.ExplodeAmmo constructor" Url="html/233a0e27-230c-f574-8c90-8f75428b5d8e.htm" />
+  <HelpKINode Title="explosive enumeration member" Url="html/ba44f3b2-bff1-f5d4-f53a-0b1e1f8980c5.htm" />
+  <HelpKINode Title="GameObject class" Url="html/7c97ffe2-bdc8-07da-838f-a12aa2fb3bfa.htm" />
+  <HelpKINode Title="GameObject class" Url="html/8d525501-31e3-6b92-e213-9d2fdcc8c5e4.htm" />
+  <HelpKINode Title="GameObject class">
+    <HelpKINode Title="about GameObject class" Url="html/8d525501-31e3-6b92-e213-9d2fdcc8c5e4.htm" />
+    <HelpKINode Title="all members" Url="html/7c97ffe2-bdc8-07da-838f-a12aa2fb3bfa.htm" />
+    <HelpKINode Title="constructor" Url="html/6916b8ac-72df-6b10-5586-7c263307b61e.htm" />
+    <HelpKINode Title="methods" Url="html/616711ec-01fb-0d31-66da-4d321ad4abf9.htm" />
+    <HelpKINode Title="properties" Url="html/b8c7da07-e176-43fe-9e61-50a485344f89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GameObject.GameObject constructor" Url="html/6916b8ac-72df-6b10-5586-7c263307b61e.htm" />
+  <HelpKINode Title="GameObject.Name property" Url="html/78ff74e2-ffe4-7ce9-4141-52642a0dd96d.htm" />
+  <HelpKINode Title="Heal method" Url="html/4100982e-cfec-4e74-ec8f-078240f7fbf8.htm" />
+  <HelpKINode Title="Health property" Url="html/a7fdac45-2393-28da-9669-117bca23fea9.htm" />
+  <HelpKINode Title="max field" Url="html/50e75768-b27b-97ca-7b3f-9598099c8486.htm" />
+  <HelpKINode Title="MaxHealth property" Url="html/77fb66c9-b03c-804e-3ae5-d871df268f56.htm" />
+  <HelpKINode Title="min field" Url="html/07f377ba-0ee5-aca4-9118-2e9e55dd8c88.htm" />
+  <HelpKINode Title="MissleAmmo class" Url="html/7ac17d77-a58d-d6c6-2beb-32e7eac70480.htm" />
+  <HelpKINode Title="MissleAmmo class" Url="html/97e27f1b-991e-88ba-a80d-364b720b15fb.htm" />
+  <HelpKINode Title="MissleAmmo class">
+    <HelpKINode Title="about MissleAmmo class" Url="html/7ac17d77-a58d-d6c6-2beb-32e7eac70480.htm" />
+    <HelpKINode Title="all members" Url="html/97e27f1b-991e-88ba-a80d-364b720b15fb.htm" />
+    <HelpKINode Title="constructor" Url="html/2653085e-e549-084d-d76e-103320a14d3f.htm" />
+    <HelpKINode Title="fields" Url="html/5e3f4730-9983-e9c4-16b6-e411f55a4961.htm" />
+    <HelpKINode Title="methods" Url="html/c3a233b7-e661-cf40-2930-585b92da891e.htm" />
+    <HelpKINode Title="properties" Url="html/29c81ddc-d019-930e-8fb2-1c623669a325.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MissleAmmo.MissleAmmo constructor" Url="html/2653085e-e549-084d-d76e-103320a14d3f.htm" />
+  <HelpKINode Title="Name property" Url="html/78ff74e2-ffe4-7ce9-4141-52642a0dd96d.htm" />
+  <HelpKINode Title="piercing enumeration member" Url="html/ba44f3b2-bff1-f5d4-f53a-0b1e1f8980c5.htm" />
+  <HelpKINode Title="PiercingAmmo class" Url="html/2235cb60-2aca-0327-2637-23b13a543abc.htm" />
+  <HelpKINode Title="PiercingAmmo class" Url="html/f2e129a2-6f7e-c064-f405-e84f843f5ab5.htm" />
+  <HelpKINode Title="PiercingAmmo class">
+    <HelpKINode Title="about PiercingAmmo class" Url="html/f2e129a2-6f7e-c064-f405-e84f843f5ab5.htm" />
+    <HelpKINode Title="all members" Url="html/2235cb60-2aca-0327-2637-23b13a543abc.htm" />
+    <HelpKINode Title="constructor" Url="html/d711ffaa-1fa2-3a87-e502-ed2fca4b5b25.htm" />
+    <HelpKINode Title="fields" Url="html/3f740e86-3918-85c4-9288-0e7e8f49bdc5.htm" />
+    <HelpKINode Title="methods" Url="html/4e237c10-bf15-a1bb-8fe2-54bcd17f0cab.htm" />
+    <HelpKINode Title="properties" Url="html/318ab94e-a3cf-a5ac-195b-1ba218cffb87.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PiercingAmmo.PiercingAmmo constructor" Url="html/d711ffaa-1fa2-3a87-e502-ed2fca4b5b25.htm" />
+  <HelpKINode Title="Player class" Url="html/2c3f2a7e-98a4-c8d7-bf74-1b1ccf24a7f1.htm" />
+  <HelpKINode Title="Player class" Url="html/4604f814-afb4-88b5-0e05-600156afcf49.htm" />
+  <HelpKINode Title="Player class">
+    <HelpKINode Title="about Player class" Url="html/2c3f2a7e-98a4-c8d7-bf74-1b1ccf24a7f1.htm" />
+    <HelpKINode Title="all members" Url="html/4604f814-afb4-88b5-0e05-600156afcf49.htm" />
+    <HelpKINode Title="constructor" Url="html/3883ee8a-992e-b311-c5f0-f0849e7e21d6.htm" />
+    <HelpKINode Title="fields" Url="html/f5840008-5766-159f-b9f9-989c9811b607.htm" />
+    <HelpKINode Title="methods" Url="html/6dc12113-4264-ca7d-dcbb-3d8b534af734.htm" />
+    <HelpKINode Title="properties" Url="html/c372bb9c-8998-2105-e0d8-5a062dc97329.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Player.Heal method" Url="html/4100982e-cfec-4e74-ec8f-078240f7fbf8.htm" />
+  <HelpKINode Title="Player.Player constructor" Url="html/3883ee8a-992e-b311-c5f0-f0849e7e21d6.htm" />
+  <HelpKINode Title="Player.SelectWeapon method" Url="html/2f139c08-27a2-f003-d609-55a979b0dd6a.htm" />
+  <HelpKINode Title="Program class" Url="html/53af7dd3-2f72-ec86-2dda-16a2e38a49ff.htm" />
+  <HelpKINode Title="Program class" Url="html/bf0bd738-02eb-c01d-200f-5c907da3c9bb.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="about Program class" Url="html/bf0bd738-02eb-c01d-200f-5c907da3c9bb.htm" />
+    <HelpKINode Title="all members" Url="html/53af7dd3-2f72-ec86-2dda-16a2e38a49ff.htm" />
+    <HelpKINode Title="constructor" Url="html/cbe2442e-a5e4-ea5f-0a08-6f78f85d4e49.htm" />
+    <HelpKINode Title="methods" Url="html/73f08d18-4114-33b0-09d3-86d9276c12ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Program constructor" Url="html/cbe2442e-a5e4-ea5f-0a08-6f78f85d4e49.htm" />
+  <HelpKINode Title="SelectWeapon method" Url="html/2f139c08-27a2-f003-d609-55a979b0dd6a.htm" />
+  <HelpKINode Title="SimpleWarGame namespace" Url="html/fc1c1a14-858b-befc-846d-67549371b99d.htm" />
+  <HelpKINode Title="SimpleWarGame.EnemyTank class" Url="html/5334d3a6-4626-4c7f-f956-aafe3106cba8.htm" />
+  <HelpKINode Title="SimpleWarGame.EnemyTank class" Url="html/ff194882-c7ce-86c7-a9b3-2bd28a2047ab.htm" />
+  <HelpKINode Title="SimpleWarGame.EnemyTruck class" Url="html/44fb412f-e1db-1c1e-4d82-98eec676cdf8.htm" />
+  <HelpKINode Title="SimpleWarGame.EnemyTruck class" Url="html/a4e5ac33-fa3a-2612-fb38-e4d0a22477e8.htm" />
+  <HelpKINode Title="SimpleWarGame.Entity class" Url="html/51716122-dfda-7d56-9f4e-2ddce236905a.htm" />
+  <HelpKINode Title="SimpleWarGame.Entity class" Url="html/c9abbaad-5cd3-9491-a130-10ff03bb6e53.htm" />
+  <HelpKINode Title="SimpleWarGame.ExplodeAmmo class" Url="html/1b54d84b-2c91-9bf5-2309-072347503faf.htm" />
+  <HelpKINode Title="SimpleWarGame.ExplodeAmmo class" Url="html/2602ed1c-001a-77bc-7acf-0e5afb6cf142.htm" />
+  <HelpKINode Title="SimpleWarGame.GameObject class" Url="html/7c97ffe2-bdc8-07da-838f-a12aa2fb3bfa.htm" />
+  <HelpKINode Title="SimpleWarGame.GameObject class" Url="html/8d525501-31e3-6b92-e213-9d2fdcc8c5e4.htm" />
+  <HelpKINode Title="SimpleWarGame.MissleAmmo class" Url="html/7ac17d77-a58d-d6c6-2beb-32e7eac70480.htm" />
+  <HelpKINode Title="SimpleWarGame.MissleAmmo class" Url="html/97e27f1b-991e-88ba-a80d-364b720b15fb.htm" />
+  <HelpKINode Title="SimpleWarGame.PiercingAmmo class" Url="html/2235cb60-2aca-0327-2637-23b13a543abc.htm" />
+  <HelpKINode Title="SimpleWarGame.PiercingAmmo class" Url="html/f2e129a2-6f7e-c064-f405-e84f843f5ab5.htm" />
+  <HelpKINode Title="SimpleWarGame.Player class" Url="html/2c3f2a7e-98a4-c8d7-bf74-1b1ccf24a7f1.htm" />
+  <HelpKINode Title="SimpleWarGame.Player class" Url="html/4604f814-afb4-88b5-0e05-600156afcf49.htm" />
+  <HelpKINode Title="SimpleWarGame.Program class" Url="html/53af7dd3-2f72-ec86-2dda-16a2e38a49ff.htm" />
+  <HelpKINode Title="SimpleWarGame.Program class" Url="html/bf0bd738-02eb-c01d-200f-5c907da3c9bb.htm" />
+  <HelpKINode Title="SimpleWarGame.SlugAmmo class" Url="html/4a319533-6b35-9da0-4445-4871d2f6513c.htm" />
+  <HelpKINode Title="SimpleWarGame.SlugAmmo class" Url="html/f0ae5b4d-4e4b-9746-34b4-4e1459a43602.htm" />
+  <HelpKINode Title="SimpleWarGame.Weapon class" Url="html/033d8c81-7f8f-c070-fabd-820226ce0d0f.htm" />
+  <HelpKINode Title="SimpleWarGame.Weapon class" Url="html/b2afce65-4e6e-b356-0b4a-d67702753b47.htm" />
+  <HelpKINode Title="SimpleWarGame.Weapon.Damage structure" Url="html/28bc767b-b8cb-c09a-9742-f957731df5bb.htm" />
+  <HelpKINode Title="SimpleWarGame.Weapon.Damage structure" Url="html/cb938573-6959-35f8-3bb1-847e482c3fcf.htm" />
+  <HelpKINode Title="SimpleWarGame.weaponType enumeration" Url="html/ba44f3b2-bff1-f5d4-f53a-0b1e1f8980c5.htm" />
+  <HelpKINode Title="SlugAmmo class" Url="html/4a319533-6b35-9da0-4445-4871d2f6513c.htm" />
+  <HelpKINode Title="SlugAmmo class" Url="html/f0ae5b4d-4e4b-9746-34b4-4e1459a43602.htm" />
+  <HelpKINode Title="SlugAmmo class">
+    <HelpKINode Title="about SlugAmmo class" Url="html/4a319533-6b35-9da0-4445-4871d2f6513c.htm" />
+    <HelpKINode Title="all members" Url="html/f0ae5b4d-4e4b-9746-34b4-4e1459a43602.htm" />
+    <HelpKINode Title="constructor" Url="html/d7c4ad90-3853-5561-1ecb-8723a1aa0558.htm" />
+    <HelpKINode Title="fields" Url="html/8dfff2c0-ed2d-ea2a-c380-b1d48b26cd19.htm" />
+    <HelpKINode Title="methods" Url="html/65eb2c24-aa08-ebea-ea4e-ad34c6856eb5.htm" />
+    <HelpKINode Title="properties" Url="html/10276706-81d4-8145-eecf-672294818ba5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SlugAmmo.SlugAmmo constructor" Url="html/d7c4ad90-3853-5561-1ecb-8723a1aa0558.htm" />
+  <HelpKINode Title="Weapon class" Url="html/033d8c81-7f8f-c070-fabd-820226ce0d0f.htm" />
+  <HelpKINode Title="Weapon class" Url="html/b2afce65-4e6e-b356-0b4a-d67702753b47.htm" />
+  <HelpKINode Title="Weapon class">
+    <HelpKINode Title="about Weapon class" Url="html/b2afce65-4e6e-b356-0b4a-d67702753b47.htm" />
+    <HelpKINode Title="all members" Url="html/033d8c81-7f8f-c070-fabd-820226ce0d0f.htm" />
+    <HelpKINode Title="constructor" Url="html/c434bf20-a245-bbb0-6b6a-37ec7eb38d99.htm" />
+    <HelpKINode Title="fields" Url="html/3aa74717-476d-afdd-0f36-3e4395cb29e5.htm" />
+    <HelpKINode Title="methods" Url="html/9295717d-a127-e845-f65a-0d9308baa369.htm" />
+    <HelpKINode Title="properties" Url="html/02220060-705b-d046-7481-611ac4fe68c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="weapon field" Url="html/039b07c8-9260-c9bc-4880-56b4ace3f2ba.htm" />
+  <HelpKINode Title="Weapon.AttackMod property" Url="html/1be109e2-15da-7045-f917-11fa873bf9b1.htm" />
+  <HelpKINode Title="Weapon.attackModifier field" Url="html/2ccc3b7d-8877-365f-df73-a0fc24cd73d9.htm" />
+  <HelpKINode Title="Weapon.damage field" Url="html/99cf3904-ef4a-fabd-7195-290546426135.htm" />
+  <HelpKINode Title="Weapon.Damage structure" Url="html/28bc767b-b8cb-c09a-9742-f957731df5bb.htm" />
+  <HelpKINode Title="Weapon.Damage structure" Url="html/cb938573-6959-35f8-3bb1-847e482c3fcf.htm" />
+  <HelpKINode Title="Weapon.Damage structure">
+    <HelpKINode Title="about Weapon.Damage structure" Url="html/28bc767b-b8cb-c09a-9742-f957731df5bb.htm" />
+    <HelpKINode Title="all members" Url="html/cb938573-6959-35f8-3bb1-847e482c3fcf.htm" />
+    <HelpKINode Title="fields" Url="html/ae7eae0c-edda-77b9-9d9e-98ae5a94fc04.htm" />
+    <HelpKINode Title="methods" Url="html/782ae7ab-96b4-0785-5287-60f487692c75.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Weapon.Damage.max field" Url="html/50e75768-b27b-97ca-7b3f-9598099c8486.htm" />
+  <HelpKINode Title="Weapon.Damage.min field" Url="html/07f377ba-0ee5-aca4-9118-2e9e55dd8c88.htm" />
+  <HelpKINode Title="Weapon.Weapon constructor" Url="html/c434bf20-a245-bbb0-6b6a-37ec7eb38d99.htm" />
+  <HelpKINode Title="weaponType enumeration" Url="html/ba44f3b2-bff1-f5d4-f53a-0b1e1f8980c5.htm" />
+</HelpKI>
